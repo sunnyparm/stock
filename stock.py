@@ -1,4 +1,5 @@
 테스트
+44
 대화 이해 여부 확인
 Exported on 8/19/2025 at 21:02:54 GMT+9 from Cursor (1.4.5)
 
